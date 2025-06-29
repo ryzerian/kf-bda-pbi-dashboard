@@ -18,7 +18,7 @@ The interactive dashboard visualizes:
 
 - `screenshots/` — Static images of each dashboard page  
 - `queries/` — BigQuery SQL used to generate analytical tables  
-- `presentation/` — PDF version of Looker Dashboard  
+- `presentation/` — PDF version of Looker Dashboard and PowerPoint Presentation 
 - `dashboard_link.txt` — Quick access to Looker Studio URL
 
 ---
